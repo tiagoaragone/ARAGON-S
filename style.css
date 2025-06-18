@@ -1,0 +1,163 @@
+.loro{ background-color:black
+
+}
+.papa{
+    text-align: center;
+    border: 7px solid rgb(0, 0, 0); 
+    width: 100%; 
+    padding: 10px; 
+    box-sizing: border-box; 
+    background-color: gold;
+
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.loca{ display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+}
+.lolopri{
+     display: flex;
+     flex-direction: row;
+     justify-content:space-evenly ;
+}
+.lolo1{
+    border-radius: 15px;
+    border-width: 7px;
+    border-color: rgb(14, 157, 201);
+    border-style: solid;
+    width: 200px;
+    height: 450px;
+    background-color:rgb(102, 110, 180)
+    
+
+}
+.ima{
+    width: 200px;
+    height: 200px;
+}
+.lolo2{
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(14, 157, 201);
+    border-style: solid;
+    width: 200px;
+    height: 450px;
+    background-color:rgb(169, 188, 223)
+} 
+.lolo3{
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(14, 157, 201);
+    border-style: solid;
+    width: 200px;
+    height: 450px;
+    background-color:rgb(240, 9, 9)
+
+}
+.lolo4{
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(14, 157, 201);
+    border-style: solid;
+    width: 200px;
+    height: 450px;
+    background-color:rgb(236, 117, 5)
+
+}
+.hora{
+        border-radius: 25px;
+        border-width: 10px;
+        border-color: rgb(16, 7, 92);
+        border-style: solid;
+        width: 300px;
+        height: 300px;
+        background-color:rgb(29, 230, 45)
+}
+.por{
+    width: 200px;
+    height: 200px;
+}
+.fe{
+    width: 200px;
+    height: 200px;
+}
+.seis{
+    width: 200px;
+    height: 200px;
+}
+.ex{
+    text-align: center;
+    
+
+}
+
+.rese{
+    color: beige;
+    display: flex;
+    justify-content: space-around;
+    border: 15px solid yellow; 
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 20px;
+}  
+.reñe1{ 
+    display: flex;
+    justify-content: space-around;
+    border: 7px solid rgb(255, 0, 0); 
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 20px;
+}
+.reñe2{ 
+    display: flex;
+    justify-content: space-around;
+    border: 7px solid rgb(6, 175, 57); 
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 20px;
+}
+.reñe3{ 
+    display: flex;
+    justify-content: space-around;
+    border: 7px solid rgb(5, 14, 145); 
+    border-radius: 25px;
+    padding: 10px;
+
+}
+.pee{ color: rgb(223, 14, 14);
+    text-align: center;
+}
+.prov{
+    color: gold;
+    text-align: center;
+}
+.lolo5{
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(189, 5, 5);
+    border-style: solid;
+    width: 200px;
+    height: 450px;
+    background-color:rgb(224, 184, 3)
+}
+.loloprin{
+    display:flex;
+     flex-direction:row;
+     justify-content:space-evenly ;
+}
+.us{
+    text-align: center;
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(214, 214, 214);
+    border-style: solid;
+}
+.hello{ 
+   color: antiquewhite;
+    justify-content: center;
+}
