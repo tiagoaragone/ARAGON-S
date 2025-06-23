@@ -161,3 +161,28 @@ img{
    color: antiquewhite;
     justify-content: center;
 }
+.jojo{
+    display: flex;
+    justify-content:space-around ;
+    text-align: center;
+    border-radius: 15px;
+    border-width: 7px;
+    border-color:  rgb(226, 2, 2);
+    border-style: solid;
+    
+}
+.pocoyo{
+    width: 300px;
+    height: 300px;
+    
+    
+    }  
+.pinta{
+    color: bisque;
+
+}
+.hl{
+    
+    justify-content:space-around ;
+}
+
