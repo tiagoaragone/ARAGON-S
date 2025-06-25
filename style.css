@@ -129,6 +129,20 @@ img{
     padding: 10px;
 
 }
+.reñe4{
+    display: flex;
+    justify-content: space-around;
+    border: 7px solid rgb(207, 3, 180); 
+    border-radius: 25px;
+    padding: 10px;
+}
+.reñe5{
+    display: flex;
+    justify-content: space-around;
+    border: 7px solid rgb(0, 166, 231); 
+    border-radius: 25px;
+    padding: 10px;
+}
 .pee{ color: rgb(223, 14, 14);
     text-align: center;
 }
@@ -182,7 +196,6 @@ img{
 
 }
 .hl{
-    
     justify-content:space-around ;
 }
 
